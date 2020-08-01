@@ -38,3 +38,12 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+---
+
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+[website]: https://nickbarrett.me
+[twitter]: https://twitter.com/nickbarrett
+[youtube]: https://www.youtube.com/user/nfbarrett1138
+[instagram]: https://instagram.com/nfbarrett
+[linkedin]: https://linkedin.com/in/nfbarrett
