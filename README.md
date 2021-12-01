@@ -25,18 +25,6 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nfbarrett&repo=github-readme-stats&theme=dark" />
-</a>
-
 <img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.nfbarrett.vercel.app/api?username=nfbarrett&show_icons=true&hide_border=true&theme=dark" />
 
 [dark]: https://github-readme-stats.vercel.app/api?username=nfbarrett&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
