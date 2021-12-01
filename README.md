@@ -24,9 +24,12 @@
 
 <!-- BLOG-POST-LIST:END -->
 ---
+| |
+| :--: |
+|<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.nfbarrett.vercel.app/api?username=nfbarrett&show_icons=true&hide_border=true&theme=dark" />|
+|`dark` ![dark][dark]|
 
-<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.nfbarrett.vercel.app/api?username=nfbarrett&show_icons=true&hide_border=true&theme=dark" />
-
+[dark]: https://github-readme-stats.vercel.app/api?username=nfbarrett&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
 [website]: https://nickbarrett.me
 [twitter]: https://twitter.com/nickbarrett
 [youtube]: https://www.youtube.com/user/nfbarrett1138
