@@ -27,6 +27,7 @@
 | |
 | :--: |
 |<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.nfbarrett.vercel.app/api?username=nfbarrett&show_icons=true&hide_border=true&theme=dark" />|
+
 <--|`dark` ![dark][dark]|-->
 
 [dark]: https://github-readme-stats.vercel.app/api?username=nfbarrett&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
