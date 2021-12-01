@@ -25,7 +25,7 @@
 <!-- BLOG-POST-LIST:END -->
 ---
 
-<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.nfbarrett.vercel.app/api?username=nfbarrett&show_icons=true&hide_border=true&theme=radical" />
+<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.nfbarrett.vercel.app/api?username=nfbarrett&show_icons=true&hide_border=true&theme=github_dark" />
 
 [website]: https://nickbarrett.me
 [twitter]: https://twitter.com/nickbarrett
