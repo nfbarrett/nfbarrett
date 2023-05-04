@@ -1,35 +1,21 @@
-### Hi there 👋
+# Hi 👋, I'm Nick
+- 🔭 I’m currently working on **Cybersecurity**
+- 📝 I regularly write articles on [https://nickbarrett.me/](https://nickbarrett.me/)
+- 📄 Know about my experiences [https://nickbarrett.me/resume/](https://nickbarrett.me/resume/)
 
-<!--
-**nfbarrett/nfbarrett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+### Connect with me:
 
-<!-- Here are some ideas to get you started: -->
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Networking and PowerShell
-<!--- 👯 I’m looking to collaborate on ...-->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: ... -->
-- 😄 Pronouns: He/Him
-<!-- - ⚡ Fun fact: ... -->
+<a href="https://twitter.com/nickbarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nickbarrett" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nfbarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nfbarrett" height="30" width="40" /></a>
+<a href="https://fb.com/nickbarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nickbarrett" height="30" width="40" /></a>
+<a href="https://instagram.com/nfbarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nfbarrett" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/nickbarrett" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nickbarrett" height="30" width="40" /></a>
+</p>
 
+### Languages and Tools:
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<!-- ### 📺 Latest YouTube Videos -->
-<!-- YOUTUBE:START -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nfbarrett&show_icons=true&locale=en&layout=compact" alt="nfbarrett" /></p>
 
-<!-- YOUTUBE:END -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nfbarrett&show_icons=true&locale=en" alt="nfbarrett" /></p>
 
-<!-- ### 📕 Latest Blog Posts -->
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
----
-
-<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.nfbarrett.vercel.app/api?username=nfbarrett&show_icons=true&hide_border=true&theme=dark" />
-
-[dark]: https://github-readme-stats.vercel.app/api?username=nfbarrett&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
-[website]: https://nickbarrett.me
-[twitter]: https://twitter.com/nickbarrett
-[youtube]: https://www.youtube.com/user/nfbarrett1138
-[instagram]: https://instagram.com/nfbarrett
-[linkedin]: https://linkedin.com/in/nfbarrett
