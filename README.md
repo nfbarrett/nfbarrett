@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nick
 - 🔭 I’m currently working on **Cybersecurity**
-- 📝 I regularly write articles on [https://nickbarrett.me/](https://nickbarrett.me/)
+- 📝 I write on [https://nickbarrett.me/](https://nickbarrett.me/)
 - 📄 Know about my experiences [https://nickbarrett.me/resume/](https://nickbarrett.me/resume/)
 
 ### Connect with me:
