@@ -1,5 +1,5 @@
 # Hi 👋, I'm Nick
-- 🔭 I’m currently working on **Cybersecurity**
+- 🔭 I’m currently working in **IT Security**
 - 📝 I write on [https://nickbarrett.me/](https://nickbarrett.me/)
 - 📄 Know about my experiences [https://nickbarrett.me/resume/](https://nickbarrett.me/resume/)
 
